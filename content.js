@@ -1,3 +1,3 @@
 console.log("oghyr")
 console.log("brvja")
-console.log("omimc")
+console.log("tecrh")
