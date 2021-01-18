@@ -1,2 +1,2 @@
 console.log("vowml")
-console.log("qutta")
+console.log("waxwn")
