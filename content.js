@@ -1,2 +1,2 @@
 console.log("oghyr")
-console.log("mijnd")
+console.log("ohida")
