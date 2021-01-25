@@ -1,2 +1,2 @@
 console.log("getjt")
-console.log("mnaal")
+console.log("iinxb")
