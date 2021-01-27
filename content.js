@@ -1,2 +1,2 @@
 console.log("getjt")
-console.log("wkosf")
+console.log("kbrih")
