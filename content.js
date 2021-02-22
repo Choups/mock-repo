@@ -1,2 +1,2 @@
 console.log("getjt")
-console.log("sqswj")
+console.log("equml")
